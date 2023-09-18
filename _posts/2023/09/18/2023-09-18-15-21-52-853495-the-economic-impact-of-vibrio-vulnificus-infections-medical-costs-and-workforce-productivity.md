@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Economic Impact of Vibrio vulnificus Infections: Medical Costs and Workforce Productivity""
+title: "The Economic Impact of Vibrio vulnificus Infections: Medical Costs and Workforce Productivity"
 description: " "
 date: 2023-09-18
 tags: [#Introduction, #Medical]

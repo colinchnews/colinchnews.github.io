@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Role of Seafood Handling Practices in Vibrio vulnificus Prevention""
+title: "The Role of Seafood Handling Practices in Vibrio vulnificus Prevention"
 description: " "
 date: 2023-09-18
 tags: [seafood, foodhandling]

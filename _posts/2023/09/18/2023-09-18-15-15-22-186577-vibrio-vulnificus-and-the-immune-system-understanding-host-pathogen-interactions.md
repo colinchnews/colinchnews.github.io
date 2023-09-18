@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and the Immune System: Understanding Host-Pathogen Interactions""
+title: "Vibrio vulnificus and the Immune System: Understanding Host-Pathogen Interactions"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, ImmuneSystem]

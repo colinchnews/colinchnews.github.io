@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Recreational Water Activities: Staying Safe while Enjoying the Beach""
+title: "Vibrio vulnificus and Recreational Water Activities: Staying Safe while Enjoying the Beach"
 description: " "
 date: 2023-09-18
 tags: [beachsafety, Vibriovulnificus]

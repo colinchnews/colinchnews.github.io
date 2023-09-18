@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How Does Vibrio vulnificus Compare to Other Vibrio Species?""
+title: "How Does Vibrio vulnificus Compare to Other Vibrio Species?"
 description: " "
 date: 2023-09-18
 tags: []

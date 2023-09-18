@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Global Health: A Potential Emerging Threat""
+title: "Vibrio vulnificus and Global Health: A Potential Emerging Threat"
 description: " "
 date: 2023-09-18
 tags: [vibriovulnificus, emergingthreat]

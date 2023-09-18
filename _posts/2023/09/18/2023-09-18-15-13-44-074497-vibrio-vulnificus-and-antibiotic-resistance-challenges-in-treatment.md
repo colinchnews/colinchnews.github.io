@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Antibiotic Resistance: Challenges in Treatment"
+title: "Vibrio vulnificus and Antibiotic Resistance: Challenges in Treatment"
 description: " "
 date: 2023-09-18
 tags: []

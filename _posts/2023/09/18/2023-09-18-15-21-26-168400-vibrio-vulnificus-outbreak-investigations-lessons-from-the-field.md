@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus Outbreak Investigations: Lessons from the Field""
+title: "Vibrio vulnificus Outbreak Investigations: Lessons from the Field"
 description: " "
 date: 2023-09-18
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Swimming in Coastal Waters: Assessing the Risks""
+title: "Vibrio vulnificus and Swimming in Coastal Waters: Assessing the Risks"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, CoastalWaters]

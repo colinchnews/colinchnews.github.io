@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Genetic Diversity of Vibrio vulnificus: Implications for Infection Patterns""
+title: "Genetic Diversity of Vibrio vulnificus: Implications for Infection Patterns"
 description: " "
 date: 2023-09-18
 tags: [seabacteria, pathogens]

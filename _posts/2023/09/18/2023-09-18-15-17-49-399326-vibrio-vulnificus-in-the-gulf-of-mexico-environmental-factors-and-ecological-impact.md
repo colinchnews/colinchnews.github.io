@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus in the Gulf of Mexico: Environmental Factors and Ecological Impact""
+title: "Vibrio vulnificus in the Gulf of Mexico: Environmental Factors and Ecological Impact"
 description: " "
 date: 2023-09-18
 tags: [environment, temperature]

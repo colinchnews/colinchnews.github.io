@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Pregnancy: What Expecting Mothers Need to Know""
+title: "Vibrio vulnificus and Pregnancy: What Expecting Mothers Need to Know"
 description: " "
 date: 2023-09-18
 tags: [pregnancytips, VibrioVulnificus]

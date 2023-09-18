@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Biofilms: Insights into its Survival and Persistence""
+title: "Vibrio vulnificus and Biofilms: Insights into its Survival and Persistence"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, Biofilms]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and FDA Regulations: Ensuring Seafood Safety""
+title: "Vibrio vulnificus and FDA Regulations: Ensuring Seafood Safety"
 description: " "
 date: 2023-09-18
 tags: []

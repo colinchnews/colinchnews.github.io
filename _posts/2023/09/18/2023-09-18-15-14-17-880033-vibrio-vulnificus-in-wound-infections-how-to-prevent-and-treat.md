@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus in Wound Infections: How to Prevent and Treat""
+title: "Vibrio vulnificus in Wound Infections: How to Prevent and Treat"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, WoundInfectionPrevention]

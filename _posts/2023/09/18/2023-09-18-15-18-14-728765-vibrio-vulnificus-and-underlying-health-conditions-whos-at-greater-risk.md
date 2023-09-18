@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Underlying Health Conditions: Who's at Greater Risk?""
+title: "Vibrio vulnificus and Underlying Health Conditions: Who's at Greater Risk?"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, HealthRisks]

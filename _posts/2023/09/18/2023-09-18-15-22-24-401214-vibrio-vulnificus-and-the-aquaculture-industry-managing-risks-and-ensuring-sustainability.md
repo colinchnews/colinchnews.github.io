@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and the Aquaculture Industry: Managing Risks and Ensuring Sustainability""
+title: "Vibrio vulnificus and the Aquaculture Industry: Managing Risks and Ensuring Sustainability"
 description: " "
 date: 2023-09-18
 tags: []

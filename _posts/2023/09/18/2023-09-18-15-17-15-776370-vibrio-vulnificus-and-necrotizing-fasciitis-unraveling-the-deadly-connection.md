@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Necrotizing Fasciitis: Unraveling the Deadly Connection""
+title: "Vibrio vulnificus and Necrotizing Fasciitis: Unraveling the Deadly Connection"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, NecrotizingFasciitis]

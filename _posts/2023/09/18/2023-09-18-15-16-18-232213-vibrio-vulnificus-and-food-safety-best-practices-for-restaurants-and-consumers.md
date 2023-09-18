@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vibrio vulnificus and Food Safety: Best Practices for Restaurants and Consumers""
+title: "Vibrio vulnificus and Food Safety: Best Practices for Restaurants and Consumers"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, FoodSafety]

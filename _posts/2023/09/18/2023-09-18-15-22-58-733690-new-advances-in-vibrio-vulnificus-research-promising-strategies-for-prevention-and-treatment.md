@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""New Advances in Vibrio vulnificus Research: Promising Strategies for Prevention and Treatment""
+title: "New Advances in Vibrio vulnificus Research: Promising Strategies for Prevention and Treatment"
 description: " "
 date: 2023-09-18
 tags: [VibrioVulnificus, AntibioticTherapy]
