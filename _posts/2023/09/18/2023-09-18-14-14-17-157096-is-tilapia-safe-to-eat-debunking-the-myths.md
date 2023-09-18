@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Is Tilapia Safe to Eat? Debunking the Myths""
+title: "Is Tilapia Safe to Eat? Debunking the Myths"
 description: " "
 date: 2023-09-18
 tags: []

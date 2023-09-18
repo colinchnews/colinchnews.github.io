@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Perfect Wine Pairings for Tilapia""
+title: "The Perfect Wine Pairings for Tilapia"
 description: " "
 date: 2023-09-18
 tags: [tilapiawinepairing, seafoodandwine]

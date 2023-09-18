@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The History and Origin of Tilapia Fish""
+title: "The History and Origin of Tilapia Fish"
 description: " "
 date: 2023-09-18
 tags: [aquaculture, tilapiafish]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Best Seasonings and Marinades for Tilapia""
+title: "The Best Seasonings and Marinades for Tilapia"
 description: " "
 date: 2023-09-18
 tags: [food, tilapia]

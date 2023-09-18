@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia Tacos and Other Creative Tilapia Dishes""
+title: "Tilapia Tacos and Other Creative Tilapia Dishes"
 description: " "
 date: 2023-09-18
 tags: [tilapiatacos, tilapiadishes]

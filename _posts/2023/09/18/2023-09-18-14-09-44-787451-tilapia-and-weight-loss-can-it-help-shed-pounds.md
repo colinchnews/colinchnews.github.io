@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia and Weight Loss: Can it Help Shed Pounds?""
+title: "Tilapia and Weight Loss: Can it Help Shed Pounds?"
 description: " "
 date: 2023-09-18
 tags: [WeightLoss, HealthyEating]

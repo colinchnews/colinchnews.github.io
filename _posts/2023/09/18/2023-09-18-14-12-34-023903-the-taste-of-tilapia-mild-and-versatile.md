@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Taste of Tilapia: Mild and Versatile""
+title: "The Taste of Tilapia: Mild and Versatile"
 description: " "
 date: 2023-09-18
 tags: [MildFlavor, VersatileSeafood]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Best Places to Source Fresh Tilapia""
+title: "The Best Places to Source Fresh Tilapia"
 description: " "
 date: 2023-09-18
 tags: [tilapia, freshseafood]

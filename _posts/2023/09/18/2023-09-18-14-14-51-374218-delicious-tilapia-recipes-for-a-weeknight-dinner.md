@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Delicious Tilapia Recipes for a Weeknight Dinner""
+title: "Delicious Tilapia Recipes for a Weeknight Dinner"
 description: " "
 date: 2023-09-18
 tags: [tilapiarecipes, healthydinnerideas]

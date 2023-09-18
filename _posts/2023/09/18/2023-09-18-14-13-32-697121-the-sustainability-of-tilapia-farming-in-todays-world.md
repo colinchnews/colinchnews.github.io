@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Sustainability of Tilapia Farming in Today's World""
+title: "The Sustainability of Tilapia Farming in Today's World"
 description: " "
 date: 2023-09-18
 tags: [Sustainability, TilapiaFarming]

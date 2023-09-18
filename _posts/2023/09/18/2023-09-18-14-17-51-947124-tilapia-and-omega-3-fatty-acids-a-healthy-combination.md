@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia and Omega-3 Fatty Acids: A Healthy Combination""
+title: "Tilapia and Omega-3 Fatty Acids: A Healthy Combination"
 description: " "
 date: 2023-09-18
 tags: [HealthyEating, Omega3FattyAcids]

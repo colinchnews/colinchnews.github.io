@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia as a Budget-Friendly Protein Option""
+title: "Tilapia as a Budget-Friendly Protein Option"
 description: " "
 date: 2023-09-18
 tags: []

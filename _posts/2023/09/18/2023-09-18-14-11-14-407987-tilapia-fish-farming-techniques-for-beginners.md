@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia Fish Farming Techniques for Beginners""
+title: "Tilapia Fish Farming Techniques for Beginners"
 description: " "
 date: 2023-09-18
 tags: [aquaculture, fishfarming]

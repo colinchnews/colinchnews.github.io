@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia and Diabetes: How it Can Benefit Blood Sugar Levels""
+title: "Tilapia and Diabetes: How it Can Benefit Blood Sugar Levels"
 description: " "
 date: 2023-09-18
 tags: [tilapia, diabetes]

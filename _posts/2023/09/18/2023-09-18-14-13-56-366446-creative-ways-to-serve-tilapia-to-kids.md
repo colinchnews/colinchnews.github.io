@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Creative Ways to Serve Tilapia to Kids""
+title: "Creative Ways to Serve Tilapia to Kids"
 description: " "
 date: 2023-09-18
 tags: []

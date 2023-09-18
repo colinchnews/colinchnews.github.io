@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Versatility of Tilapia: Grilling, Baking, or Pan-Frying?""
+title: "The Versatility of Tilapia: Grilling, Baking, or Pan-Frying?"
 description: " "
 date: 2023-09-18
 tags: [tilapia, cookingmethods]

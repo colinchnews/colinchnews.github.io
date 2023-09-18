@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Environmental Impact of Tilapia Farming""
+title: "The Environmental Impact of Tilapia Farming"
 description: " "
 date: 2023-09-18
 tags: [tilapiafarming, environmentalimpact]

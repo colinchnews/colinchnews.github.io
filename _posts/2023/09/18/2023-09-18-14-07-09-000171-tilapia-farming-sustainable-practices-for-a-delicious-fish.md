@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia Farming: Sustainable practices for a delicious fish""
+title: "Tilapia Farming: Sustainable practices for a delicious fish"
 description: " "
 date: 2023-09-18
 tags: [tilapia, sustainablefarming]

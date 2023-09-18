@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Health Benefits of Eating Tilapia""
+title: "The Health Benefits of Eating Tilapia"
 description: " "
 date: 2023-09-18
 tags: [tilapia, healthyeating]

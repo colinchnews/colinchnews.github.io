@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Top 5 Benefits of Including Tilapia in Your Diet""
+title: "The Top 5 Benefits of Including Tilapia in Your Diet"
 description: " "
 date: 2023-09-18
 tags: [tilapia, healthyeating]

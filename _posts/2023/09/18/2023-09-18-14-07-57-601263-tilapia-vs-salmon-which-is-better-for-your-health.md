@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia vs. Salmon: Which is Better for Your Health?""
+title: "Tilapia vs. Salmon: Which is Better for Your Health?"
 description: " "
 date: 2023-09-18
 tags: [HealthyEating, SeafoodLovers]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How to Properly Store and Preserve Fresh Tilapia""
+title: "How to Properly Store and Preserve Fresh Tilapia"
 description: " "
 date: 2023-09-18
 tags: []

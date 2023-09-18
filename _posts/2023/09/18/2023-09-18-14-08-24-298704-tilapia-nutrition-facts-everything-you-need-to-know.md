@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia Nutrition Facts: Everything you need to know""
+title: "Tilapia Nutrition Facts: Everything you need to know"
 description: " "
 date: 2023-09-18
 tags: [tilapia, nutritionfacts]

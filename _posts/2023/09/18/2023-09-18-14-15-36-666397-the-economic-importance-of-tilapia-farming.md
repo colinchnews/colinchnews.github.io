@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Economic Importance of Tilapia Farming""
+title: "The Economic Importance of Tilapia Farming"
 description: " "
 date: 2023-09-18
 tags: []

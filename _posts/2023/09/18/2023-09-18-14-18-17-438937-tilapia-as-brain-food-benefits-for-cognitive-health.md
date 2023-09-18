@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia as Brain Food: Benefits for Cognitive Health""
+title: "Tilapia as Brain Food: Benefits for Cognitive Health"
 description: " "
 date: 2023-09-18
 tags: [brainhealth, tilapia]

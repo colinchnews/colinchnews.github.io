@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Cultural Significance of Tilapia in Different Cuisines""
+title: "The Cultural Significance of Tilapia in Different Cuisines"
 description: " "
 date: 2023-09-18
 tags: [tilapia, cuisine]

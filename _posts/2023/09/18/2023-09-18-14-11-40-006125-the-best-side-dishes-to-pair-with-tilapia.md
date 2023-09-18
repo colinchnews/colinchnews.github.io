@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Best Side Dishes to Pair with Tilapia""
+title: "The Best Side Dishes to Pair with Tilapia"
 description: " "
 date: 2023-09-18
 tags: []

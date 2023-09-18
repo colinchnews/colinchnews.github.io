@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia as a Protein Source: A Healthy Alternative""
+title: "Tilapia as a Protein Source: A Healthy Alternative"
 description: " "
 date: 2023-09-18
 tags: [tilapia, protein]

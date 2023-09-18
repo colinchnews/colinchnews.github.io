@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How to Cook Tilapia: Delicious Recipes and Tips""
+title: "How to Cook Tilapia: Delicious Recipes and Tips"
 description: " "
 date: 2023-09-18
 tags: [tilapiarecipes, easyfishrecipes]

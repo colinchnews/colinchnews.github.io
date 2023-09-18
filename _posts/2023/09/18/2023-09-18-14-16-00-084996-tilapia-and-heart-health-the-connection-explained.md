@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tilapia and Heart Health: The Connection Explained""
+title: "Tilapia and Heart Health: The Connection Explained"
 description: " "
 date: 2023-09-18
 tags: [tilapia, hearthealth]
