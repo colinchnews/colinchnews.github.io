@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Emotional Intelligence: How Interhemispheric Connection Influences Emotions""
+title: "Corpus Callosum and Emotional Intelligence: How Interhemispheric Connection Influences Emotions"
 description: " "
 date: 2023-09-18
 tags: [EmotionalIntelligence, CorpusCallosum]

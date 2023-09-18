@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum Disorders: Causes, Symptoms, and Treatments""
+title: "Corpus Callosum Disorders: Causes, Symptoms, and Treatments"
 description: " "
 date: 2023-09-18
 tags: []

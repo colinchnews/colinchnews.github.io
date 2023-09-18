@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Brain Computer Interfaces: Future Applications and Possibilities""
+title: "Corpus Callosum and Brain Computer Interfaces: Future Applications and Possibilities"
 description: " "
 date: 2023-09-18
 tags: [Tech, BrainInterfaces]

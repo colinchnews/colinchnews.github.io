@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Neuroplasticity: Can It Be Enhanced?""
+title: "Corpus Callosum and Neuroplasticity: Can It Be Enhanced?"
 description: " "
 date: 2023-09-18
 tags: [BrainHealth, Neuroscience]

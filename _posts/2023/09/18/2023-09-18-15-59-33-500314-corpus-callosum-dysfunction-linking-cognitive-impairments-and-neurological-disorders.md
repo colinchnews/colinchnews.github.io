@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum Dysfunction: Linking Cognitive Impairments and Neurological Disorders""
+title: "Corpus Callosum Dysfunction: Linking Cognitive Impairments and Neurological Disorders"
 description: " "
 date: 2023-09-18
 tags: []

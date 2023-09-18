@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum Surgeries: Procedures, Risks, and Recovery""
+title: "Corpus Callosum Surgeries: Procedures, Risks, and Recovery"
 description: " "
 date: 2023-09-18
 tags: []

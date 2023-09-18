@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Intelligence: Debunking Myths and Examining the Science""
+title: "Corpus Callosum and Intelligence: Debunking Myths and Examining the Science"
 description: " "
 date: 2023-09-18
 tags: [intelligence, corpuscallosum]

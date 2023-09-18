@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Memory: Exploring Its Role in Information Transfer""
+title: "Corpus Callosum and Memory: Exploring Its Role in Information Transfer"
 description: " "
 date: 2023-09-18
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Aging: The Effects of Interhemispheric Communication on Brain Health""
+title: "Corpus Callosum and Aging: The Effects of Interhemispheric Communication on Brain Health"
 description: " "
 date: 2023-09-18
 tags: []

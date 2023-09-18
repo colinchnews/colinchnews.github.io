@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Traumatic Brain Injury: Implications for Recovery and Rehabilitation""
+title: "Corpus Callosum and Traumatic Brain Injury: Implications for Recovery and Rehabilitation"
 description: " "
 date: 2023-09-18
 tags: [CorpusCallosum, Neurorehabilitation]

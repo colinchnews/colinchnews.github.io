@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Corpus Callosum and Its Importance in Cognitive Function""
+title: "The Corpus Callosum and Its Importance in Cognitive Function"
 description: " "
 date: 2023-09-18
 tags: []

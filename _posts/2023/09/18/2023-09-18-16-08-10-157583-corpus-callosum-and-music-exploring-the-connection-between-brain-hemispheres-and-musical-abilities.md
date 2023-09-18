@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Music: Exploring the Connection between Brain Hemispheres and Musical Abilities""
+title: "Corpus Callosum and Music: Exploring the Connection between Brain Hemispheres and Musical Abilities"
 description: " "
 date: 2023-09-18
 tags: [MusicAndBrain, CorpusCallosum]

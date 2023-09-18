@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Creativity: The Link between Artistic Expression and Brain Connectivity""
+title: "Corpus Callosum and Creativity: The Link between Artistic Expression and Brain Connectivity"
 description: " "
 date: 2023-09-18
 tags: [creativity, brainconnectivity]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Schizophrenia: Unraveling the Interplay between Brain Hemispheres""
+title: "Corpus Callosum and Schizophrenia: Unraveling the Interplay between Brain Hemispheres"
 description: " "
 date: 2023-09-18
 tags: [BrainHemispheres, Schizophrenia]

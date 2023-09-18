@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Attention Deficit Hyperactivity Disorder: Unveiling Links and Treatment Approaches""
+title: "Corpus Callosum and Attention Deficit Hyperactivity Disorder: Unveiling Links and Treatment Approaches"
 description: " "
 date: 2023-09-18
 tags: [ADHD, corpuscallosum]

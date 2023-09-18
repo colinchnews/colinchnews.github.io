@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Learning Disabilities: Seeking Solutions for Educational Challenges""
+title: "Corpus Callosum and Learning Disabilities: Seeking Solutions for Educational Challenges"
 description: " "
 date: 2023-09-18
 tags: [LearningDisabilities, CorpusCallosum]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Epilepsy: Exploring the Relationship and Potential Treatments""
+title: "Corpus Callosum and Epilepsy: Exploring the Relationship and Potential Treatments"
 description: " "
 date: 2023-09-18
 tags: [Epiplepsy, CorpusCallosum]

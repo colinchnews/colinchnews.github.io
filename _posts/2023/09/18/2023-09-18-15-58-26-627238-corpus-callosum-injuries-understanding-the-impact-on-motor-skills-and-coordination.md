@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum Injuries: Understanding the Impact on Motor Skills and Coordination""
+title: "Corpus Callosum Injuries: Understanding the Impact on Motor Skills and Coordination"
 description: " "
 date: 2023-09-18
 tags: []

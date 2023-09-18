@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Language Processing: How Does It Affect Communication?""
+title: "Corpus Callosum and Language Processing: How Does It Affect Communication?"
 description: " "
 date: 2023-09-18
 tags: []

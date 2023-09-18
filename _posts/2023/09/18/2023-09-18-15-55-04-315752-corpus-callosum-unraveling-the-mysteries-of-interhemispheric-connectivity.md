@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum: Unraveling the Mysteries of Interhemispheric Connectivity""
+title: "Corpus Callosum: Unraveling the Mysteries of Interhemispheric Connectivity"
 description: " "
 date: 2023-09-18
 tags: [BrainConnectivity, CorpusCallosum]

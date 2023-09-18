@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Understanding the Role of Corpus Callosum in Brain Communication""
+title: "Understanding the Role of Corpus Callosum in Brain Communication"
 description: " "
 date: 2023-09-18
 tags: [brain, corpuscallosum]

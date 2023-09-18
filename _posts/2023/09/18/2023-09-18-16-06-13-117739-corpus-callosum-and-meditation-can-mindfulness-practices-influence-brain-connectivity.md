@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Meditation: Can Mindfulness Practices Influence Brain Connectivity?""
+title: "Corpus Callosum and Meditation: Can Mindfulness Practices Influence Brain Connectivity?"
 description: " "
 date: 2023-09-18
 tags: [mindfulness, meditation]

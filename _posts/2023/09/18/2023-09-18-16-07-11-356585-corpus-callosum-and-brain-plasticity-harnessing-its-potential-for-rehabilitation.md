@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Brain Plasticity: Harnessing Its Potential for Rehabilitation""
+title: "Corpus Callosum and Brain Plasticity: Harnessing Its Potential for Rehabilitation"
 description: " "
 date: 2023-09-18
 tags: [BrainPlasticity, Rehabilitation]

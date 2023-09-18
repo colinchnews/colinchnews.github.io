@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Stroke: Understanding the Consequences and Rehabilitation Strategies""
+title: "Corpus Callosum and Stroke: Understanding the Consequences and Rehabilitation Strategies"
 description: " "
 date: 2023-09-18
 tags: []

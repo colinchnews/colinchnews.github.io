@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Sleep: Investigating the Relationship between Interhemispheric Communication and Restorative Rest""
+title: "Corpus Callosum and Sleep: Investigating the Relationship between Interhemispheric Communication and Restorative Rest"
 description: " "
 date: 2023-09-18
 tags: [sleep, corpuscallosum]

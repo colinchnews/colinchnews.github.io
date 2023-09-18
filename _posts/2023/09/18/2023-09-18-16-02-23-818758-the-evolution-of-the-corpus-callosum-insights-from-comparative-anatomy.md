@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Evolution of the Corpus Callosum: Insights from Comparative Anatomy""
+title: "The Evolution of the Corpus Callosum: Insights from Comparative Anatomy"
 description: " "
 date: 2023-09-18
 tags: [neuroscience, evolution]

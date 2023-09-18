@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Neurofeedback: Modulating Brain Connectivity for Therapeutic Purposes""
+title: "Corpus Callosum and Neurofeedback: Modulating Brain Connectivity for Therapeutic Purposes"
 description: " "
 date: 2023-09-18
 tags: []

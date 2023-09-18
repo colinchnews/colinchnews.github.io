@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Development of the Corpus Callosum: From Infancy to Adulthood""
+title: "The Development of the Corpus Callosum: From Infancy to Adulthood"
 description: " "
 date: 2023-09-18
 tags: []

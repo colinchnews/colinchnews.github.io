@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Corpus Callosum and Autism Spectrum Disorder: Investigating the Connection""
+title: "Corpus Callosum and Autism Spectrum Disorder: Investigating the Connection"
 description: " "
 date: 2023-09-18
 tags: [corpuscallosum, autismspectrumdisorder]

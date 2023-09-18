@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Exploring the Corpus Callosum: The Bridge between the Brain Hemispheres""
+title: "Exploring the Corpus Callosum: The Bridge between the Brain Hemispheres"
 description: " "
 date: 2023-09-18
 tags: [neuroscience, brainfunction]
