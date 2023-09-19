@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Most Instagram-Worthy Burgers to Try on National Burger Day""
+title: "The Most Instagram-Worthy Burgers to Try on National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [burger, rainbow, burger, cheese, burger, donut, burger, monster, burger, vegan, burger]

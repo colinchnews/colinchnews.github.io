@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""National Burger Day: A Look at the Most Iconic Burgers of All Time""
+title: "National Burger Day: A Look at the Most Iconic Burgers of All Time"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerLove]

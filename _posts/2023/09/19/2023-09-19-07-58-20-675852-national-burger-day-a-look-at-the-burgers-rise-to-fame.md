@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""National Burger Day: A Look at the Burger's Rise to Fame""
+title: "National Burger Day: A Look at the Burger's Rise to Fame"
 description: " "
 date: 2023-09-19
 tags: [burger, NationalBurgerDay]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Celebrate National Burger Day with These Mouthwatering Recipes""
+title: "Celebrate National Burger Day with These Mouthwatering Recipes"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerRecipes]

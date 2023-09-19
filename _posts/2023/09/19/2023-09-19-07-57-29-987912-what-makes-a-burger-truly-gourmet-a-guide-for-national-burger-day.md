@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""What Makes a Burger Truly Gourmet? A Guide for National Burger Day""
+title: "What Makes a Burger Truly Gourmet? A Guide for National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, GourmetBurger]

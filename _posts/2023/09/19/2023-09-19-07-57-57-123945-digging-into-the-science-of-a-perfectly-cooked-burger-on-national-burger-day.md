@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Digging into the Science of a Perfectly Cooked Burger on National Burger Day""
+title: "Digging into the Science of a Perfectly Cooked Burger on National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerScience]

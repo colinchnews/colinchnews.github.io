@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""National Burger Day: How to Build the Ultimate Burger""
+title: "National Burger Day: How to Build the Ultimate Burger"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, UltimateBurger]

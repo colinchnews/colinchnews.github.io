@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""National Burger Day Deals and Discounts You Don't Want to Miss""
+title: "National Burger Day Deals and Discounts You Don't Want to Miss"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerDeals]

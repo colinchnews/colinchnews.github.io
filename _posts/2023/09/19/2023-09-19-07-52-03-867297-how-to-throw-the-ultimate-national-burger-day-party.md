@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How to Throw the Ultimate National Burger Day Party""
+title: "How to Throw the Ultimate National Burger Day Party"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerParty]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Tips for Grilling the Perfect Burger on National Burger Day""
+title: "Tips for Grilling the Perfect Burger on National Burger Day"
 description: " "
 date: 2023-09-19
 tags: []

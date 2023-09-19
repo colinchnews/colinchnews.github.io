@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Vegan Burger Ideas for National Burger Day""
+title: "Vegan Burger Ideas for National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [veganburgers, NationalBurgerDay]

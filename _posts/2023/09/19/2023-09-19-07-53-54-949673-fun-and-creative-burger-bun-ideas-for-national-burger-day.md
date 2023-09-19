@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Fun and Creative Burger Bun Ideas for National Burger Day""
+title: "Fun and Creative Burger Bun Ideas for National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerBunIdeas]

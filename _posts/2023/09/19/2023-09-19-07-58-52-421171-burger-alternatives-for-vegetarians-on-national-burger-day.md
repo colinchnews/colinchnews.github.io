@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Burger Alternatives for Vegetarians on National Burger Day""
+title: "Burger Alternatives for Vegetarians on National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [vegetarian, NationalBurgerDay]

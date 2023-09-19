@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""National Burger Day: Exploring Regional Burger Variations""
+title: "National Burger Day: Exploring Regional Burger Variations"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerVariations]

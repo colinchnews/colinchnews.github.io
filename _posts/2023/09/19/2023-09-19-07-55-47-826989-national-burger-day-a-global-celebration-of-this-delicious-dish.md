@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""National Burger Day: A Global Celebration of This Delicious Dish""
+title: "National Burger Day: A Global Celebration of This Delicious Dish"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerLove]

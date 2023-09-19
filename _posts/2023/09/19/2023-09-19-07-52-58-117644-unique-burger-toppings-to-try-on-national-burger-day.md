@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Unique Burger Toppings to Try on National Burger Day""
+title: "Unique Burger Toppings to Try on National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerToppings]

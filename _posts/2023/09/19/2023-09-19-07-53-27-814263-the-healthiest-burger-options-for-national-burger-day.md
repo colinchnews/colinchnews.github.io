@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Healthiest Burger Options for National Burger Day""
+title: "The Healthiest Burger Options for National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [nationalburgerday, healthyfood]

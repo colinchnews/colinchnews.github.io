@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Best Side Dishes to Pair with a Burger on National Burger Day""
+title: "The Best Side Dishes to Pair with a Burger on National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, BurgerSideDishes]

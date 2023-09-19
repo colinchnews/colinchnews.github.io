@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Best Burger Joints to Visit on National Burger Day""
+title: "The Best Burger Joints to Visit on National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [nationalburgerday, burgerjoints]

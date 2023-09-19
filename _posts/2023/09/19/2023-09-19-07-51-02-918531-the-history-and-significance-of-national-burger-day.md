@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The History and Significance of National Burger Day""
+title: "The History and Significance of National Burger Day"
 description: " "
 date: 2023-09-19
 tags: [NationalBurgerDay, nationalburgerday, burgerlove]
