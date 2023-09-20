@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Nick Chubb's Secrets to Success: A Closer Look at the Training Regimen of the Georgia Bulldogs' Star Player""
+title: "Nick Chubb's Secrets to Success: A Closer Look at the Training Regimen of the Georgia Bulldogs' Star Player"
 description: " "
 date: 2023-09-20
 tags: [TrainingLikeChubb, GeorgiaBulldogs]

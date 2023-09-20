@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""From College to the Pros: How Nick Chubb Became a Football Phenomenon""
+title: "From College to the Pros: How Nick Chubb Became a Football Phenomenon"
 description: " "
 date: 2023-09-20
 tags: [football, nickchubb]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Breaking Down Nick Chubb's Record-Breaking Season: Stats and Highlights""
+title: "Breaking Down Nick Chubb's Record-Breaking Season: Stats and Highlights"
 description: " "
 date: 2023-09-20
 tags: [NickChubb, RecordBreakingSeason]

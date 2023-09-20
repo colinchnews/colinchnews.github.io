@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""From College Standout to NFL Star: Nick Chubb's Journey to Success""
+title: "From College Standout to NFL Star: Nick Chubb's Journey to Success"
 description: " "
 date: 2023-09-20
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Breaking Down Nick Chubb's Impact on the Georgia Bulldogs' Offense""
+title: "Breaking Down Nick Chubb's Impact on the Georgia Bulldogs' Offense"
 description: " "
 date: 2023-09-20
 tags: [collegefootball, georgiabulldogs]

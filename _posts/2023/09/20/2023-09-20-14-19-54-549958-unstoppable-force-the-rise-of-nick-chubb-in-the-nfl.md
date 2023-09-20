@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Unstoppable Force: The Rise of Nick Chubb in the NFL""
+title: "Unstoppable Force: The Rise of Nick Chubb in the NFL"
 description: " "
 date: 2023-09-20
 tags: []

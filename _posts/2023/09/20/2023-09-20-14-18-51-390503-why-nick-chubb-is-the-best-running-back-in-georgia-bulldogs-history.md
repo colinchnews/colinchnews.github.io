@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Why Nick Chubb is the Best Running Back in Georgia Bulldogs' History""
+title: "Why Nick Chubb is the Best Running Back in Georgia Bulldogs' History"
 description: " "
 date: 2023-09-20
 tags: []

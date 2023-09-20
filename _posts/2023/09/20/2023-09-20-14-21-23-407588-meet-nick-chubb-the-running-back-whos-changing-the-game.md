@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Meet Nick Chubb: The Running Back Who's Changing the Game""
+title: "Meet Nick Chubb: The Running Back Who's Changing the Game"
 description: " "
 date: 2023-09-20
 tags: [NickChubb, RunningBack]

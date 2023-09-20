@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Nick Chubb and the Cleveland Browns: A Dynamic Duo in the Making""
+title: "Nick Chubb and the Cleveland Browns: A Dynamic Duo in the Making"
 description: " "
 date: 2023-09-20
 tags: [ClevelandBrowns, NickChubb]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Ultimate Nick Chubb Fan Guide: Facts, Figures, and Memorable Moments""
+title: "The Ultimate Nick Chubb Fan Guide: Facts, Figures, and Memorable Moments"
 description: " "
 date: 2023-09-20
 tags: [Football, ClevelandBrowns]

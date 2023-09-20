@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""From Injury Setbacks to Record-Breaking Performances: The Inspiring Journey of Nick Chubb""
+title: "From Injury Setbacks to Record-Breaking Performances: The Inspiring Journey of Nick Chubb"
 description: " "
 date: 2023-09-20
 tags: [Inspiration, NickChubb]

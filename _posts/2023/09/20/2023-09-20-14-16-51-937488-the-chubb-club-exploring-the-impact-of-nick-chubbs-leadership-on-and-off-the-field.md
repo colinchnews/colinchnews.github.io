@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The 'Chubb Club': Exploring the Impact of Nick Chubb's Leadership on and off the Field""
+title: "The 'Chubb Club': Exploring the Impact of Nick Chubb's Leadership on and off the Field"
 description: " "
 date: 2023-09-20
 tags: [leadership, football]

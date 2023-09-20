@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Rise of Nick Chubb: How Georgia Bulldogs' Star Running Back has Dominated College Football""
+title: "The Rise of Nick Chubb: How Georgia Bulldogs' Star Running Back has Dominated College Football"
 description: " "
 date: 2023-09-20
 tags: []

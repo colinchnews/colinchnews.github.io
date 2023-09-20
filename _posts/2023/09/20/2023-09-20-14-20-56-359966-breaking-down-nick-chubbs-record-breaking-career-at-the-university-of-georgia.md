@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Breaking Down Nick Chubb's Record-Breaking Career at the University of Georgia""
+title: "Breaking Down Nick Chubb's Record-Breaking Career at the University of Georgia"
 description: " "
 date: 2023-09-20
 tags: [NickChubb, CollegeFootball]

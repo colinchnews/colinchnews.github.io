@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How to Become a Highly Sought-After Security Cloud Engineer""
+title: "How to Become a Highly Sought-After Security Cloud Engineer"
 description: " "
 date: 2023-09-20
 tags: [cloud, security]
