@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Best Recipes for the Jewish Holiday Celebrated Today: Delicious Dishes to Try""
+title: "The Best Recipes for the Jewish Holiday Celebrated Today: Delicious Dishes to Try"
 description: " "
 date: 2023-09-20
 tags: [JewishCuisine, MatzoBallSoup]

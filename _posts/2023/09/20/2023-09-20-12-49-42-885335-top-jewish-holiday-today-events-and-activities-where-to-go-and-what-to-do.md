@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Top Jewish Holiday Today Events and Activities: Where to Go and What to Do""
+title: "Top Jewish Holiday Today Events and Activities: Where to Go and What to Do"
 description: " "
 date: 2023-09-20
 tags: [JewishHolidays, HolidayEvents]

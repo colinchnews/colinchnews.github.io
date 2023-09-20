@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The History and Origins of the Jewish Holiday Celebrated Today: A Fascinating Journey""
+title: "The History and Origins of the Jewish Holiday Celebrated Today: A Fascinating Journey"
 description: " "
 date: 2023-09-20
 tags: [JewishHolidays, TraditionAndHistory]

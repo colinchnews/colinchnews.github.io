@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How to Prepare for the Jewish Holiday Today: Tips and Ideas for a Memorable Celebration""
+title: "How to Prepare for the Jewish Holiday Today: Tips and Ideas for a Memorable Celebration"
 description: " "
 date: 2023-09-20
 tags: [JewishHoliday, CelebrationPreparation]

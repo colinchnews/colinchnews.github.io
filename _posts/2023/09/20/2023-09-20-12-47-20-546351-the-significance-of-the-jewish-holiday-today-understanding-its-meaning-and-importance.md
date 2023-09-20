@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Significance of the Jewish Holiday Today: Understanding its Meaning and Importance""
+title: "The Significance of the Jewish Holiday Today: Understanding its Meaning and Importance"
 description: " "
 date: 2023-09-20
 tags: [jewish, holiday]

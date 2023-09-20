@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Meaningful Jewish Holiday Today Traditions: Incorporating Faith and Culture""
+title: "Meaningful Jewish Holiday Today Traditions: Incorporating Faith and Culture"
 description: " "
 date: 2023-09-20
 tags: [JewishTraditions, FaithandCulture]

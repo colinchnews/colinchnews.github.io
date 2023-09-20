@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Celebrating the Jewish Holiday Today in a Modern World: Balancing Tradition and Modernity""
+title: "Celebrating the Jewish Holiday Today in a Modern World: Balancing Tradition and Modernity"
 description: " "
 date: 2023-09-20
 tags: []

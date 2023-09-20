@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""A Guide to Celebrating the Jewish Holiday Today: Everything You Need to Know""
+title: "A Guide to Celebrating the Jewish Holiday Today: Everything You Need to Know"
 description: " "
 date: 2023-09-20
 tags: [JewishHolidays, Traditions]

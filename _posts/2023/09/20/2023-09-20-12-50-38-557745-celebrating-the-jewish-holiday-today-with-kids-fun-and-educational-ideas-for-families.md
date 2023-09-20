@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Celebrating the Jewish Holiday Today with Kids: Fun and Educational Ideas for Families""
+title: "Celebrating the Jewish Holiday Today with Kids: Fun and Educational Ideas for Families"
 description: " "
 date: 2023-09-20
 tags: [jewish, holiday]

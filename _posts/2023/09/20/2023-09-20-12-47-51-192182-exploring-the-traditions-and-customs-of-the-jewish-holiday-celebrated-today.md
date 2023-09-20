@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Exploring the Traditions and Customs of the Jewish Holiday Celebrated Today""
+title: "Exploring the Traditions and Customs of the Jewish Holiday Celebrated Today"
 description: " "
 date: 2023-09-20
 tags: []
