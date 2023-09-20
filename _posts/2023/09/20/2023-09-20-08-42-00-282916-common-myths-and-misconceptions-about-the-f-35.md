@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Common Myths and Misconceptions about the F-35""
+title: "Common Myths and Misconceptions about the F-35"
 description: " "
 date: 2023-09-20
 tags: [militarytechnology, aviation]

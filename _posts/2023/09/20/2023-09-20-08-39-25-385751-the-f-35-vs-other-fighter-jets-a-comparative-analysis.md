@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The F-35 vs. Other Fighter Jets: A Comparative Analysis""
+title: "The F-35 vs. Other Fighter Jets: A Comparative Analysis"
 description: " "
 date: 2023-09-20
 tags: [fighterjets, aircraft]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The F-35's Role in Modernizing Air Power and National Defense""
+title: "The F-35's Role in Modernizing Air Power and National Defense"
 description: " "
 date: 2023-09-20
 tags: [NationalDefense, AirPower]

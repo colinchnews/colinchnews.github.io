@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Unveiling the Top Features of the F-35 Stealth Fighter""
+title: "Unveiling the Top Features of the F-35 Stealth Fighter"
 description: " "
 date: 2023-09-20
 tags: [StealthFighter, MilitaryTechnology]

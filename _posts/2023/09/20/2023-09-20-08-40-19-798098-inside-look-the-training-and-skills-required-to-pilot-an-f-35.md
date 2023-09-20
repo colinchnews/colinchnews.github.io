@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Inside Look: The Training and Skills Required to Pilot an F-35""
+title: "Inside Look: The Training and Skills Required to Pilot an F-35"
 description: " "
 date: 2023-09-20
 tags: [PilotTraining, AviationSkills]

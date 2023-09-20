@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The F-35: The World's Most Advanced Fighter Jet Explained""
+title: "The F-35: The World's Most Advanced Fighter Jet Explained"
 description: " "
 date: 2023-09-20
 tags: [tech, aviation]

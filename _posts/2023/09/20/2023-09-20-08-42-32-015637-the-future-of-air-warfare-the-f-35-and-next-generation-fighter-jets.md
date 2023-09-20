@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Future of Air Warfare: The F-35 and Next-Generation Fighter Jets""
+title: "The Future of Air Warfare: The F-35 and Next-Generation Fighter Jets"
 description: " "
 date: 2023-09-20
 tags: []

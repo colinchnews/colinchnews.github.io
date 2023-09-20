@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Breaking Down the Design Innovations of the F-35""
+title: "Breaking Down the Design Innovations of the F-35"
 description: " "
 date: 2023-09-20
 tags: []

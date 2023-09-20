@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Economic Impact of the F-35 Program on Military Spending""
+title: "The Economic Impact of the F-35 Program on Military Spending"
 description: " "
 date: 2023-09-20
 tags: [militaryspending, economicimpact]

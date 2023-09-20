@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The F-35's Impact on International Relations and Global Security""
+title: "The F-35's Impact on International Relations and Global Security"
 description: " "
 date: 2023-09-20
 tags: []
