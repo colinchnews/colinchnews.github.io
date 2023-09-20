@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Kevin Salazar's Top Tips for Personal Growth and Self-Improvement""
+title: "Kevin Salazar's Top Tips for Personal Growth and Self-Improvement"
 description: " "
 date: 2023-09-20
 tags: [personaldevelopment, selfimprovement]

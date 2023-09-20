@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Kevin Salazar: An Entrepreneurial Success Story in the Digital Marketing World""
+title: "Kevin Salazar: An Entrepreneurial Success Story in the Digital Marketing World"
 description: " "
 date: 2023-09-20
 tags: [entrepreneurship, digitalmarketing]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Yom Kippur customs and rituals around the world""
+title: "Yom Kippur customs and rituals around the world"
 description: " "
 date: 2023-09-20
 tags: [YomKippur, JewishCulture]

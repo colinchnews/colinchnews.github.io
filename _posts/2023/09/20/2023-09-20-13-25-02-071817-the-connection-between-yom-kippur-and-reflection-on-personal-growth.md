@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The connection between Yom Kippur and reflection on personal growth""
+title: "The connection between Yom Kippur and reflection on personal growth"
 description: " "
 date: 2023-09-20
 tags: [reflection, personalgrowth]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Dan and Shay's Best Collaborations: Artists They've Worked With""
+title: "Dan and Shay's Best Collaborations: Artists They've Worked With"
 description: " "
 date: 2023-09-20
 tags: []

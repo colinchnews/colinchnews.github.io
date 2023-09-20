@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Impact of Deion Sanders' Charisma and Swagger on and off the Field""
+title: "The Impact of Deion Sanders' Charisma and Swagger on and off the Field"
 description: " "
 date: 2023-09-20
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Deion Sanders: A Role Model for Young Athletes on Balancing Sports and Education""
+title: "Deion Sanders: A Role Model for Young Athletes on Balancing Sports and Education"
 description: " "
 date: 2023-09-20
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Behind the Scenes at Wendy's: Exploring the Food Preparation Process""
+title: "Behind the Scenes at Wendy's: Exploring the Food Preparation Process"
 description: " "
 date: 2023-09-20
 tags: [Wendys, FoodPreparation]

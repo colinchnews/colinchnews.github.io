@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Business Mindset of Deion Sanders: How He Built a Successful Post-NFL Career""
+title: "The Business Mindset of Deion Sanders: How He Built a Successful Post-NFL Career"
 description: " "
 date: 2023-09-20
 tags: [DeionSanders, BusinessMindset]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Healthy Side of Wendy's: Nutritious Options to Choose From""
+title: "The Healthy Side of Wendy's: Nutritious Options to Choose From"
 description: " "
 date: 2023-09-20
 tags: [Wendys, HealthyEating]

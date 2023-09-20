@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Rise of Dan and Shay: A Look at Their Journey to Stardom""
+title: "The Rise of Dan and Shay: A Look at Their Journey to Stardom"
 description: " "
 date: 2023-09-20
 tags: [music, countrymusic]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Inspiring Journey of Kevin Salazar: Overcoming Adversity and Achieving Success""
+title: "The Inspiring Journey of Kevin Salazar: Overcoming Adversity and Achieving Success"
 description: " "
 date: 2023-09-20
 tags: []

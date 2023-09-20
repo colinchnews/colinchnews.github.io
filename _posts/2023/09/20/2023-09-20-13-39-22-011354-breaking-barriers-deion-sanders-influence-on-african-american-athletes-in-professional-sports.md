@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Breaking Barriers: Deion Sanders' Influence on African-American Athletes in Professional Sports""
+title: "Breaking Barriers: Deion Sanders' Influence on African-American Athletes in Professional Sports"
 description: " "
 date: 2023-09-20
 tags: [DeionSanders, AfricanAmericanAthletes]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""5 delicious recipes for breaking the fast on Yom Kippur""
+title: "5 delicious recipes for breaking the fast on Yom Kippur"
 description: " "
 date: 2023-09-20
 tags: [YomKippur, BreakingTheFast]

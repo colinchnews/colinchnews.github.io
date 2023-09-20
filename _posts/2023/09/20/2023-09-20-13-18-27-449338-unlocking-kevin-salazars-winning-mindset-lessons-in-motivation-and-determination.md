@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Unlocking Kevin Salazar's Winning Mindset: Lessons in Motivation and Determination""
+title: "Unlocking Kevin Salazar's Winning Mindset: Lessons in Motivation and Determination"
 description: " "
 date: 2023-09-20
 tags: [motivation, growthmindset]

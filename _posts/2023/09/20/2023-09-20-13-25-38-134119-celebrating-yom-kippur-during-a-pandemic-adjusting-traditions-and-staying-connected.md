@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Celebrating Yom Kippur during a pandemic: adjusting traditions and staying connected""
+title: "Celebrating Yom Kippur during a pandemic: adjusting traditions and staying connected"
 description: " "
 date: 2023-09-20
 tags: [YomKippur, JewishTraditions]

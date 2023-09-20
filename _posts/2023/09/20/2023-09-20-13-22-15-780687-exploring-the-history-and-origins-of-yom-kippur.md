@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Exploring the history and origins of Yom Kippur""
+title: "Exploring the history and origins of Yom Kippur"
 description: " "
 date: 2023-09-20
 tags: []

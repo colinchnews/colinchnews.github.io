@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""A Look Inside Wendy's Secret Menu: Uncovering Hidden Gems""
+title: "A Look Inside Wendy's Secret Menu: Uncovering Hidden Gems"
 description: " "
 date: 2023-09-20
 tags: []

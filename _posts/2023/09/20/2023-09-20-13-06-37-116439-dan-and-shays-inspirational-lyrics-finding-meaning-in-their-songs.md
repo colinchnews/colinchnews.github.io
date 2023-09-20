@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Dan and Shay's Inspirational Lyrics: Finding Meaning in their Songs""
+title: "Dan and Shay's Inspirational Lyrics: Finding Meaning in their Songs"
 description: " "
 date: 2023-09-20
 tags: [love, commitment)]

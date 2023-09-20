@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Wendy's Sustainability Efforts: Protecting the Environment one Bite at a Time""
+title: "Wendy's Sustainability Efforts: Protecting the Environment one Bite at a Time"
 description: " "
 date: 2023-09-20
 tags: [Wendys, Sustainability]

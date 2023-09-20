@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Evolution of Wendy's: From a Small Hamburger Stand to a Global Fast Food Empire""
+title: "The Evolution of Wendy's: From a Small Hamburger Stand to a Global Fast Food Empire"
 description: " "
 date: 2023-09-20
 tags: [wendys, fastfood]

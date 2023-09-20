@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Understanding the themes of repentance and forgiveness on Yom Kippur""
+title: "Understanding the themes of repentance and forgiveness on Yom Kippur"
 description: " "
 date: 2023-09-20
 tags: [YomKippur, Repentance]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Dan and Shay's Love Story: The Real-Life Romances Behind Their Songs""
+title: "Dan and Shay's Love Story: The Real-Life Romances Behind Their Songs"
 description: " "
 date: 2023-09-20
 tags: [DanAndShay, LoveStories]

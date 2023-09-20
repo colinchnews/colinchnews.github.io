@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Chemistry of Dan and Shay: Exploring Their Musical Partnership""
+title: "The Chemistry of Dan and Shay: Exploring Their Musical Partnership"
 description: " "
 date: 2023-09-20
 tags: [DanAndShay, MusicalDuo]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Discovering Kevin Salazar's Passion for Travel and Adventure""
+title: "Discovering Kevin Salazar's Passion for Travel and Adventure"
 description: " "
 date: 2023-09-20
 tags: [travel, adventure]

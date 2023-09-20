@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Unveiling Kevin Salazar's Efforts in Philanthropy and Giving Back to the Community""
+title: "Unveiling Kevin Salazar's Efforts in Philanthropy and Giving Back to the Community"
 description: " "
 date: 2023-09-20
 tags: []

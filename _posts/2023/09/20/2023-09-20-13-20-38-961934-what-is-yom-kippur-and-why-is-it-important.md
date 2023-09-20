@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""What is Yom Kippur and why is it important?""
+title: "What is Yom Kippur and why is it important?"
 description: " "
 date: 2023-09-20
 tags: [Judaism, YomKippur]

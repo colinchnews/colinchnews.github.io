@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How Kevin Salazar is Revolutionizing the Art and Design Industry""
+title: "How Kevin Salazar is Revolutionizing the Art and Design Industry"
 description: " "
 date: 2023-09-20
 tags: []

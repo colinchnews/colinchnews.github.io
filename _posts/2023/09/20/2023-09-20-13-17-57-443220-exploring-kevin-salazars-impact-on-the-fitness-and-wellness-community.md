@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Exploring Kevin Salazar's Impact on the Fitness and Wellness Community""
+title: "Exploring Kevin Salazar's Impact on the Fitness and Wellness Community"
 description: " "
 date: 2023-09-20
 tags: [fitness, wellness]

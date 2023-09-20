@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Dan and Shay's Top Hits: A Playlist for Country Music Lovers""
+title: "Dan and Shay's Top Hits: A Playlist for Country Music Lovers"
 description: " "
 date: 2023-09-20
 tags: [countrymusic, DanandShay]

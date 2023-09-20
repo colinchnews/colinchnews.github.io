@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Legacy and Achievements of Deion Sanders: A Journey through the Career of a Football Icon""
+title: "The Legacy and Achievements of Deion Sanders: A Journey through the Career of a Football Icon"
 description: " "
 date: 2023-09-20
 tags: []

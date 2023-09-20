@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Deion Sanders: Unraveling the Secrets of His Unmatched Speed and Agility""
+title: "Deion Sanders: Unraveling the Secrets of His Unmatched Speed and Agility"
 description: " "
 date: 2023-09-20
 tags: []

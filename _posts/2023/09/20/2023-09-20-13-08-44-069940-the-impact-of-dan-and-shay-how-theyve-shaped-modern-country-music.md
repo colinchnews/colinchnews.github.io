@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Impact of Dan and Shay: How They've Shaped Modern Country Music""
+title: "The Impact of Dan and Shay: How They've Shaped Modern Country Music"
 description: " "
 date: 2023-09-20
 tags: []

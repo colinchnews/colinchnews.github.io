@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Rise of Deion Sanders: Examining His Road to Becoming a Hall of Fame Athlete""
+title: "The Rise of Deion Sanders: Examining His Road to Becoming a Hall of Fame Athlete"
 description: " "
 date: 2023-09-20
 tags: [DeionSanders, PrimeTime]

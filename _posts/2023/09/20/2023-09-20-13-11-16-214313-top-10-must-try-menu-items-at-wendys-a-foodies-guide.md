@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Top 10 Must-Try Menu Items at Wendy's: A Foodie's Guide""
+title: "Top 10 Must-Try Menu Items at Wendy's: A Foodie's Guide"
 description: " "
 date: 2023-09-20
 tags: [Burger, Indulgence)]

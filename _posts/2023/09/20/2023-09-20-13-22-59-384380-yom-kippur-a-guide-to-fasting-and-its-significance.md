@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Yom Kippur: A guide to fasting and its significance""
+title: "Yom Kippur: A guide to fasting and its significance"
 description: " "
 date: 2023-09-20
 tags: [YomKippur, DayOfAtonement]

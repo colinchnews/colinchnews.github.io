@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""From NFL to MLB: Exploring Deion Sanders' Remarkable Two-Sport Career""
+title: "From NFL to MLB: Exploring Deion Sanders' Remarkable Two-Sport Career"
 description: " "
 date: 2023-09-20
 tags: [sports, deionsanders]

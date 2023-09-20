@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""From Songwriters to Superstars: How Dan and Shay Found Success in Country Music""
+title: "From Songwriters to Superstars: How Dan and Shay Found Success in Country Music"
 description: " "
 date: 2023-09-20
 tags: [countrymusic, DanandShay]

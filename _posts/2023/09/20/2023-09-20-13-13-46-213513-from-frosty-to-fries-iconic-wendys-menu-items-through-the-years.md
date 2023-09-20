@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""From Frosty to Fries: Iconic Wendy's Menu Items Through the Years""
+title: "From Frosty to Fries: Iconic Wendy's Menu Items Through the Years"
 description: " "
 date: 2023-09-20
 tags: [Wendys, ClassicMenu]

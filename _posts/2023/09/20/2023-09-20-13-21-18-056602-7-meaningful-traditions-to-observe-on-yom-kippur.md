@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""7 meaningful traditions to observe on Yom Kippur""
+title: "7 meaningful traditions to observe on Yom Kippur"
 description: " "
 date: 2023-09-20
 tags: [YomKippur, Traditions]

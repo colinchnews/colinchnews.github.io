@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Meet Kevin Salazar: A Rising Star in the Entertainment Industry""
+title: "Meet Kevin Salazar: A Rising Star in the Entertainment Industry"
 description: " "
 date: 2023-09-20
 tags: [KevinSalazar, RisingStar]

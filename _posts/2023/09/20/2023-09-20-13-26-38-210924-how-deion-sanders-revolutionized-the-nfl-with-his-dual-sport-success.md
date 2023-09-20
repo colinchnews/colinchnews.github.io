@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How Deion Sanders Revolutionized the NFL with His Dual-Sport Success""
+title: "How Deion Sanders Revolutionized the NFL with His Dual-Sport Success"
 description: " "
 date: 2023-09-20
 tags: [DeionSanders, DualSportSuccess]

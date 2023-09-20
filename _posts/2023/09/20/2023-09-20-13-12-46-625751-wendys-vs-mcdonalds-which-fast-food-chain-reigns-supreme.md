@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Wendy's vs McDonald's: Which Fast Food Chain Reigns Supreme?""
+title: "Wendy's vs McDonald's: Which Fast Food Chain Reigns Supreme?"
 description: " "
 date: 2023-09-20
 tags: [fastfood, burgers]

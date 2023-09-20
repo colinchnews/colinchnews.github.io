@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Wendy's New Marketing Strategies: How the Chain Targets Millennials""
+title: "Wendy's New Marketing Strategies: How the Chain Targets Millennials"
 description: " "
 date: 2023-09-20
 tags: [Wendys, MarketingStrategies]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""How to prepare spiritually for Yom Kippur""
+title: "How to prepare spiritually for Yom Kippur"
 description: " "
 date: 2023-09-20
 tags: [YomKippur, SpiritualPreparation]

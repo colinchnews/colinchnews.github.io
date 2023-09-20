@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Story Behind Wendy's Famous Twitter Feuds: A Look at the Brand's Social Media Savvy""
+title: "The Story Behind Wendy's Famous Twitter Feuds: A Look at the Brand's Social Media Savvy"
 description: " "
 date: 2023-09-20
 tags: []

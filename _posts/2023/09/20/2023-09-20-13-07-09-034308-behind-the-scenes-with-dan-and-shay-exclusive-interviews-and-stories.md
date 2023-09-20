@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Behind the Scenes with Dan and Shay: Exclusive Interviews and Stories""
+title: "Behind the Scenes with Dan and Shay: Exclusive Interviews and Stories"
 description: " "
 date: 2023-09-20
 tags: [DanAndShay, BehindTheScenes]

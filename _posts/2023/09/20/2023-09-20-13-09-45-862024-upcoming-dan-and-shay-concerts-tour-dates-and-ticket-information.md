@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Upcoming Dan and Shay Concerts: Tour Dates and Ticket Information""
+title: "Upcoming Dan and Shay Concerts: Tour Dates and Ticket Information"
 description: " "
 date: 2023-09-20
 tags: [DanAndShayConcerts, CountryMusic]
